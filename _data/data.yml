@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Wonseok Lee
     tagline: Ph.D. student
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: wslee@dblab.postech.ac.kr
@@ -23,6 +23,7 @@ sidebar:
         level: Professional
 
 education:
+    title: Education
     - degree: Ph.D. in IT Engineering
       university: Pohang University of Science of Technology (POSTECH)
       time: 2018 - present
@@ -32,10 +33,6 @@ education:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
       - title: iTurboGraph Scaling and Automating Incremental Graph Analytics
         link: "https://dl.acm.org/doi/pdf/10.1145/3448016.3457243"
