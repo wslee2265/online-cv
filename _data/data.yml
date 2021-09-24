@@ -22,15 +22,17 @@ sidebar:
       - idiom: English
         level: Professional
 
+carrier-profile:
+    title: About me
+    summary: |
+      I am a Ph.D. Student in the Dept. IT Engineering at Pohang University of Science and Technology (POSTECH). I am doing research under the supervision of Professor Wook-Shin Han.
 education:
-    title: Education
     - degree: Ph.D. in IT Engineering
       university: Pohang University of Science of Technology (POSTECH)
       time: 2018 - present
     - degree: B.S. in IT Engineering
       university: Pohang University of Science of Technology (POSTECH)
       time: 2014 - 2018
-
 publications:
     title: Publications
     papers:
