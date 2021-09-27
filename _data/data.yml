@@ -20,7 +20,7 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Professional
+        level: Limited
 
 carrier-profile:
     title: About me
@@ -36,7 +36,7 @@ education:
 publications:
     title: Publications
     papers:
-      - title: iTurboGraph Scaling and Automating Incremental Graph Analytics
+      - title: iTurboGraph&#58; Scaling and Automating Incremental Graph Analytics
         link: "https://dl.acm.org/doi/pdf/10.1145/3448016.3457243"
         authors: Seongyun Ko, Taesung Lee, Kijae Hong, Wonseok Lee, In Seo, Jiwon Seo, Wook-Shin Han
         conference: SIGMOD, 2021
