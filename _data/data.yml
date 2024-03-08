@@ -36,6 +36,12 @@ education:
 publications:
     title: Publications
     papers:
+      - title: In-depth Analysis of Continuous Subgraph Matching in a Common Delta Query Compilation Framework
+        authors: Yukyoung Lee, Kyoungmin Kim, Wonseok Lee, and Wook-Shin Han
+        conference: SIGMOD, 2024
+      - title: DoppelGanger++&#58; Towards Fast Dependency Graph Generation for Database Replay
+        authors: Wonseok Lee, Jaehyun Ha, Wook-Shin Han, Changgyoo Park, Myunggon Park, Juhyeng Han, and Juchang Lee
+        conference: SIGMOD, 2024
       - title: iTurboGraph&#58; Scaling and Automating Incremental Graph Analytics
         link: "https://dl.acm.org/doi/pdf/10.1145/3448016.3457243"
         authors: Seongyun Ko, Taesung Lee, Kijae Hong, Wonseok Lee, In Seo, Jiwon Seo, Wook-Shin Han
